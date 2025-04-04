@@ -201,7 +201,6 @@ The examples above emphasize the critical need for:
 C&C channels play a critical role in allowing attackers to sustain an attack over time, adapt to changing conditions, and execute complex, multi-stage attacks.
 
 #### **5.2 Traditional vs. Modern C&C Techniques**  
-**5.2 Traditional vs. Modern Command and Control Techniques**
 
 | Feature                    | **Traditional C&C (e.g., IRC-based botnets)**                 | **Modern C&C (e.g., HTTPS tunneling, DNS tunneling)**   |
 |----------------------------|---------------------------------------------------------------|---------------------------------------------------------|
